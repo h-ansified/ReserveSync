@@ -23,4 +23,4 @@ Custom Email Templates
 Create personalized email templates for confirmations, cancellations, and reminders
 
 
-ReserveSynv Website: https://tasker-site-7a7cf00d.vercel.app/
+ReserveSync Website: https://tasker-site-7a7cf00d.vercel.app/
